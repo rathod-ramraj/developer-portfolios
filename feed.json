@@ -1028,6 +1028,10 @@
     "tagline": "Senior Software Engineer"
   },
   {
+    "name": "Andrew Simpson",
+    "url": "https://andrewleesimpson.com"
+  },
+  {
     "name": "Andrew Smith",
     "url": "https://andrew.codes"
   },
@@ -4077,6 +4081,11 @@
     "tagline": "Full Stack Developer, Software Engineer"
   },
   {
+    "name": "John Born",
+    "url": "https://johnborn.co.uk",
+    "tagline": "Software Engineer | Shopify Developer"
+  },
+  {
     "name": "John Doe",
     "url": "https://portfolio-john2.netlify.app"
   },
@@ -6670,6 +6679,11 @@
     "name": "Raphaël Giraud",
     "url": "https://toukoum.fr",
     "tagline": "AI Sofware Engineer"
+  },
+  {
+    "name": "Rathod Ramraj",
+    "url": "https://rathodram.pages.dev/",
+    "tagline": "Full Stack Dev | Student at NITJ"
   },
   {
     "name": "Ravi Bhushan Kumar",
